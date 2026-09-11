@@ -1,9 +1,0 @@
-node_modules
-.dist
-dist
-.env
-.env.*
-!.env.example
-functions/.env
-.firebase
-firebase-debug.log
